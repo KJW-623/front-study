@@ -1,0 +1,46 @@
+.container {
+    width: 500px;
+    height: auto;
+    background-color: darkgreen;
+    padding: 30px;
+}
+
+.login {
+    width: 450px;
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+}
+
+.save {
+    width: 450px;
+    height: 30px;
+    background-color: darkgreen;
+}
+
+.main {
+    width: 500px;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+}
+
+.mit a {
+    text-decoration: none;
+    color: white;
+}
+
+.mit {
+    width: 450px;
+    height: 50px;
+    color: white;
+    margin: 0 auto;
+    font-size: 20px;
+    background-color: lightgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
